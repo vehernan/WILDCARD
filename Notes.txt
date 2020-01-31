@@ -1,0 +1,65 @@
+4:14 JAN.28 -- 5-30
+NOTES WHAT INFO YOU NEED
+<------------------------->
+
+
+What is Web Scraping?
+
+Why Web Scraping?
+----------------------
+Web scraping is used to collect large information from websites
+
+
+WHAT TO INSTALL (MAC/LINUX) 11am- ?jan.29
+1.
+2.
+3.install beautifull soup <pip install b4>
+4.requests library <pip3 install requests>
+
+WHAT TO INSTALL (WINDOWS)
+--------------------
+1.
+2.anaconda
+3.
+4.
+
+FIND WEBSITE TO SCRAPE & ALLOWS
+---------------------------------
+to find if allowed append the file  “/robots.txt” end of the URL;
+might be illegal ((maybe))
+
+TO EXTRACT DATA USING WEB SCRAPING WITH PYTHON, YOU NEED TO FOLLOW THESE BASIC STEPS:
+--------------------------------------------
+1.Find the URL that you want to scrape
+2.Inspecting the Page
+3.Find the data you want to extract
+4.Write the code
+5.Run the code and extract the data
+6.Store the data in the required format
+
+LIBRARIES THAT ARE USED:
+------------------------------
+BeautifulSoup: Beautiful Soup is a Python package for parsing HTML and XML documents.
+It creates parse trees that is helpful to extract the data easily.
+
+Selenium: Selenium is a web testing library. It is used to automate browser activities.
+
+Pandas: Pandas is a library used for data manipulation and analysis.
+It is used to extract the data and store it in the desired format.
+
+LEARN HOW TO USE GIT BRANCH
+----------------------------
+https://www.freecodecamp.org/forum/t/push-a-new-local-branch-to-a-remote-git-repository-and-track-it-too/13222
+https://rollout.io/blog/git-create-branch/
+https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
+-testing it out 25 min.
+
+GUI
+------------------
+https://www.youtube.com/watch?v=Vde5SH8e1OQ&list=PLzMcBGfZo4-lB8MZfHPLTEHO9zJDDLpYj
+
+
+intro to web scraping -11:30 wed.29
+
+
+HTML file and basic web scrape not make it into a pretty gui
